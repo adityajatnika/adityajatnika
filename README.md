@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-My name is aditya, i am an Information Systems undergraduate.   
-My interest is in fullstack mobile development and information systems development.   
-I experienced work in back-end development which building RESTful API using CI-3 Framework during 6 months and 6 months work in Android Application's Project as Front-End Mobile Developer to solve problems in Traveloka.   
+😄 My name is aditya, i am an Information Systems undergraduate.   
+✨ My interest is in fullstack mobile development and information systems development.   
+🔭 I experienced work in : 
+- **Back-end development** in building RESTful API using CI-3 Framework **(6 months)**.   
+- Work in Android Application's Project as **Front-End Mobile Developer** to solve problems in Traveloka **(3 months)**.
+- Another campus projects as a student developer in developing application's sample **(3 years)**.
+📫 This is how to reach me : 
+- [Linkedin](https://www.linkedin.com/in/adityajatnika/)
+- [Instagram](https://www.instagram.com/aditakhmad.dj/) 
+- [Facebook](https://www.facebook.com/adit.akhmad/)
+
+
 
 <!--
 **adityajatnika/adityajatnika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
