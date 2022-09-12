@@ -5,7 +5,9 @@
 🔭 I experienced work in : 
 - **Back-end development** in building RESTful API using CI-3 Framework **(6 months)**.   
 - Work in Android Application's Project as **Front-End Mobile Developer** to solve problems in Traveloka **(3 months)**.
-- Another campus projects as a student developer in developing application's sample **(3 years)**.   
+- Another campus projects as a student developer in developing application's sample **(3 years)**.  
+
+
 📫 This is how to reach me : 
 - [Linkedin](https://www.linkedin.com/in/adityajatnika/)
 - [Instagram](https://www.instagram.com/aditakhmad.dj/) 
