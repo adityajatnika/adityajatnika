@@ -36,6 +36,14 @@ Here are some ideas to get you started:
 
 
 📫 This is how to reach me : 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityajatnika/">
+    <img width="200" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/in-thumb.png" alt="linkedin logo">
+  </a>
+</p>
+
+(https://github.com/adityajatnika/starter-project-flutter/blob/main/apps/starter-app/assets/images/ui-design.png?raw=true)
 - [Linkedin](https://www.linkedin.com/in/adityajatnika/)
 - [Instagram](https://www.instagram.com/aditakhmad.dj/) 
 - [Facebook](https://www.facebook.com/adit.akhmad/)
