@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 💬 My name is aditya, i am an Information Systems undergraduate.   
 ✨ My interest is in fullstack mobile development and information systems development.   
