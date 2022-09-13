@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityajatnika/">
-    <img width="200" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/in-thumb.png" alt="linkedin logo">
+    <img width="200" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/in-thumb.png?raw=true" alt="linkedin logo">
   </a>
 </p>
 
