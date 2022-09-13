@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-😄 My name is aditya, i am an Information Systems undergraduate.   
+💬 My name is aditya, i am an Information Systems undergraduate.   
 ✨ My interest is in fullstack mobile development and information systems development.   
 🔭 I experienced work in : 
-- **Back-end development** in building RESTful API using CI-3 Framework **(6 months)**.   
-- Work in Android Application's Project as **Front-End Mobile Developer** to solve problems in Traveloka **(3 months)**.
+- Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in Cimahi City Government **(6 months)**.   
+- Work in Android Application's Project as **Front-End Mobile Developer** to solve price product issue in Traveloka **(3 months)**.
 - Another projects in campus as a student developer in developing application's sample **(3 years)**.  
-
-
-📫 This is how to reach me : 
-- [Linkedin](https://www.linkedin.com/in/adityajatnika/)
-- [Instagram](https://www.instagram.com/aditakhmad.dj/) 
-- [Facebook](https://www.facebook.com/adit.akhmad/)
-
+🌱 I’m currently learning Flutter for my new intern company in Zero One Group
 
 
 <!--
@@ -37,3 +31,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityajatnika&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+📫 This is how to reach me : 
+- [Linkedin](https://www.linkedin.com/in/adityajatnika/)
+- [Instagram](https://www.instagram.com/aditakhmad.dj/) 
+- [Facebook](https://www.facebook.com/adit.akhmad/)
+
