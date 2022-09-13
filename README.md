@@ -34,17 +34,24 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
+<p align="center">
 📫 This is how to reach me : 
-
+</p>   
+  
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/adityajatnika/">
-    <img width="200" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/in-thumb.png?raw=true" alt="linkedin logo">
+    <img width="50" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/in-thumb.png?raw=true" alt="linkedin logo">
+  </a>
+  <a href="https://www.instagram.com/aditakhmad.dj/">
+    <img width="50" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/ig-thumb.png?raw=true" alt="instagram logo">
+  </a>
+  <a href="https://www.facebook.com/adit.akhmad/">
+    <img width="50" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/fb-thumb.png?raw=true" alt="facebook logo">
   </a>
 </p>
 
-(https://github.com/adityajatnika/starter-project-flutter/blob/main/apps/starter-app/assets/images/ui-design.png?raw=true)
-- [Linkedin](https://www.linkedin.com/in/adityajatnika/)
+<!-- - [Linkedin](https://www.linkedin.com/in/adityajatnika/)
 - [Instagram](https://www.instagram.com/aditakhmad.dj/) 
-- [Facebook](https://www.facebook.com/adit.akhmad/)
+- [Facebook](https://www.facebook.com/adit.akhmad/) -->
 
