@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <img width="30" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/ig-thumb.png?raw=true" alt="instagram logo">
   </a> &nbsp &nbsp     
   <a href="https://www.facebook.com/adit.akhmad/">
-    <img width="30" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/fb-thumb.png?raw=true" alt="facebook logo">
+    <img width="30" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/ig-thumb.png?raw=true" alt="facebook logo">
   </a>   
 </p>
 
