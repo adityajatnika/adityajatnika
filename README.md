@@ -8,7 +8,7 @@
 - Another projects in campus as a student developer in developing application's sample **(3 years)**.  
 
 
-🌱 I’m currently learning Flutter for my new intern company in Zero One Group
+🌱 I’m currently learning Flutter for my new intern company in [Zero One Group](https://github.com/zero-one-group)
 
 
 <!--
