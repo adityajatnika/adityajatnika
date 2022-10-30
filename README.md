@@ -4,7 +4,7 @@
 ✨ My interest is in fullstack mobile development and information systems development.   
 🔭 I experienced work in : 
 - Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in Cimahi City Government **(6 months)**.   
-- Work in Android Application's Project as **Front-End Mobile Developer** to solve price product issue in Traveloka **(3 months)**.
+- Work in Android Application's Project as **Mobile Developer** to solve price product issue in Traveloka **(3 months)**.
 - Another projects in campus as a student developer in developing application's sample **(3 years)**.  
 
 
