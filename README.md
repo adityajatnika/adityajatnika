@@ -6,8 +6,8 @@
 - Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in Cimahi City Government **(6 months)**.   
 - Work in Android Application's Project as **Mobile Developer** to solve price product issue in Traveloka **(3 months)**.
 - Work as a **Product Engineer - Intern** at [Zero One Group](https://github.com/zero-one-group) **(6 months)**.
-- Contributed in project [The Mommy Journal](https://play.google.com/store/apps/details?id=com.sebamed.babytrackerapp&hl=en&gl=US&pli=1) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
-- Contributed in project [Kick Avenue](https://play.google.com/store/apps/details?id=com.kickavenue.androidshop&hl=en&gl=US) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
+- Contributed in project [The Mommy Journal's](https://play.google.com/store/apps/details?id=com.sebamed.babytrackerapp&hl=en&gl=US&pli=1) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
+- Contributed in project [Kick Avenue's](https://play.google.com/store/apps/details?id=com.kickavenue.androidshop&hl=en&gl=US) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
 
 <!--
 **adityajatnika/adityajatnika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
