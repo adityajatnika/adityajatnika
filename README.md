@@ -1,6 +1,6 @@
 # Hi there 👋
 
-💬 My name is Aditya, i am an Information Systems undergraduate.   
+💬 My name is Aditya, i am an Information Systems graduate.   
 ✨ My interest is in fullstack mobile development and information systems development.   
 🔭 I experienced work in : 
 - Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in Cimahi City Government **(6 months)**.   
