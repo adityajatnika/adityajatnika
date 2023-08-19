@@ -9,6 +9,8 @@
 - Contributed in project [The Mommy Journal's](https://play.google.com/store/apps/details?id=com.sebamed.babytrackerapp&hl=en&gl=US&pli=1) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
 - Contributed in project [Kick Avenue's](https://play.google.com/store/apps/details?id=com.kickavenue.androidshop&hl=en&gl=US) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
 
+Here is my [Project Development Portofolio](https://www.canva.com/design/DAFNtU1nj6c/eEZ5veFMkJkoztZfJkM0mA/view) and my [UX Design Portofolio](https://docs.google.com/presentation/d/1mzQDV3Er7QU3Mh5DI0q6bOEYqwYFB8VktkNtwGQq_K0/edit?usp=sharing)     
+     
 <!--
 **adityajatnika/adityajatnika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,8 +50,4 @@ Here are some ideas to get you started:
     <img width="30" src="http://github.com/adityajatnika/adityajatnika/blob/main/assets/images/fb-thumb.png?raw=true" alt="facebook logo">
   </a>   
 </p>
-
-<!-- - [Linkedin](https://www.linkedin.com/in/adityajatnika/)
-- [Instagram](https://www.instagram.com/aditakhmad.dj/) 
-- [Facebook](https://www.facebook.com/adit.akhmad/) -->
 
