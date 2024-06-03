@@ -5,7 +5,7 @@
 💼 I currently work at [PT. Bank Central Asia Tbk.](https://www.bca.co.id/) as an IT Specialist **(9 months)**.   
 🔭 I experienced work in : 
 - Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in [Cimahi City Government](https://cimahikota.go.id/beranda) **(6 months)**.   
-- Work in Android Application's Project as **Mobile Developer** to solve price product issue in [Traveloka Singapore](https://traveloka.com) **(3 months)**.
+- Work in Android Application's Project as **Mobile Developer** to solve price product issue at [Traveloka Singapore](https://traveloka.com) in collaboration with [Bangkit Academy Indonesia](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) **(3 months)**.
 - Work as a **Product Engineer - Intern** at [Zero One Group](https://github.com/zero-one-group) **(6 months)**.
 - Contributed in project [The Mommy Journal's](https://play.google.com/store/apps/details?id=com.sebamed.babytrackerapp&hl=en&gl=US&pli=1) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
 - Contributed in project [Kick Avenue's](https://play.google.com/store/apps/details?id=com.kickavenue.androidshop&hl=en&gl=US) Mobile Apps Development as **Flutter Mobile Developer** at Zero One Group **(3 months)**.
