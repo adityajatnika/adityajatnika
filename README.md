@@ -2,7 +2,7 @@
 
 💬 My name is Aditya, I am an Information Systems graduate.   
 ✨ My interest is in fullstack mobile development and information systems development.   
-💼 I currently work at [PT. Bank Central Asia Tbk.](https://www.bca.co.id/) as an IT Specialist **(9 months)**.   
+💼 I currently work at [PT. Bank Central Asia Tbk.](https://www.bca.co.id/) as an IT Specialist **(until now)**.   
 🔭 I experienced work in : 
 - Mobile Application's based Survey System as **Back-end Developer** to develop RESTful API in [Cimahi City Government](https://cimahikota.go.id/beranda) **(6 months)**.   
 - Work as a **Mobile Developer** to solve price product issue at [Traveloka Singapore](https://traveloka.com) in collaboration with [Bangkit Academy Indonesia](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) **(3 months)**.
